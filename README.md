@@ -1,2 +1,2 @@
 # saytron
- assistente virtual
+ inteligencia artificial
