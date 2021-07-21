@@ -1,2 +1,2 @@
 # saytron
- assistente virtual feito en python.
+ assistente virtual
